@@ -1,0 +1,25 @@
+#food_image {
+  float: right;
+  padding: 10px;
+}
+#Ingredients_cont {
+  padding: 5px;
+}
+
+.article {
+  text-align: left;
+}
+
+@media all and (min-width: 768px) {
+  .article {
+    -webkit-flex: 5 0px;
+    flex: 5 0px;
+    -webkit-order: 1;
+    order: 1;
+  }
+
+  #food_image {
+    -webkit-order: 4;
+    order: 4;
+  }
+}

@@ -5,13 +5,7 @@ body {
 #recipe_meta_data {
   border: 1px solid black;
 }
-#food_image {
-  float: right;
-  padding: 10px;
-}
-#Ingredients_cont {
-  padding: 5px;
-}
+
 /*shape-margin: */
 .flex-container {
   display: -webkit-flex;
@@ -27,18 +21,6 @@ body {
   padding: 15px;
   -webkit-flex: 1 100%;
   flex: 1 100%;
-}
-
-.article {
-  text-align: left;
-}
-
-header {
-  background: black;
-}
-
-header h1, header cite {
-  color: white;
 }
 
 footer {
@@ -61,17 +43,6 @@ footer {
 }
 
 @media all and (min-width: 768px) {
-  .nav {
-    text-align: left;
-    -webkit-flex: 1 auto;
-    flex: 1 auto;
-  }
-  .article {
-    -webkit-flex: 5 0px;
-    flex: 5 0px;
-    -webkit-order: 1;
-    order: 1;
-  }
   footer {
     -webkit-order: 3;
     order: 3;
