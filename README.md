@@ -16,8 +16,8 @@ In the `/recipes` directory, you will find:
 
 Your task is to:
 
-- Take the `index.html` and **separate it out into components**
-- Use the data in the recipes to populate those components
+- **Take the `index.html` and separate it out into components.**
+- **Use the data in the recipes to populate those components.**
 
 Here are guided steps:
 
