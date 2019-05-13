@@ -23,7 +23,7 @@ Here are guided steps:
 
 ## 1. Move hardcoded HTML into App.js
 
-Take the HTML in the `public/index.html` file into the App.js component as JSX. Keep in mind you'll have to modify the JSX a little bit...because HTML and JSX are not the same!
+Take the HTML in the `/recipes/public/index.html` file into the App.js component as JSX. Keep in mind you'll have to modify the JSX a little bit...because HTML and JSX are not the same!
 
 ## 2. Consider your components
 
