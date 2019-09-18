@@ -5,7 +5,7 @@ const recipe = recipes[0];
 
 
 const App = () => {
-  return <div>HI</div>
+  return React.createElement('h1', {}, 'Hello World!');
   ;
 };
 
